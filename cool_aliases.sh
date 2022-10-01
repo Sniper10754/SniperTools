@@ -15,3 +15,5 @@ alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
 
+# To apply this, cancel the aliases that might clash with these,
+# And then paste them in your $HOME/.profile
