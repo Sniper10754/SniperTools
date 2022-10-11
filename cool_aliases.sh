@@ -17,3 +17,7 @@ alias l='ls -CF'
 
 # To apply this, cancel the aliases that might clash with these,
 # And then paste them in your $HOME/.profile
+
+# Some handy python aliases
+alias python='python3'
+alias debugpy='python3 -m debugpy --listen localhost:5678'
