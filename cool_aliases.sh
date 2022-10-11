@@ -21,3 +21,9 @@ alias l='ls -CF'
 # Some handy python aliases
 alias python='python3'
 alias debugpy='python3 -m debugpy --listen localhost:5678'
+
+# Some Git aliases
+alias ga='git add *'
+alias gc='git commit -m'
+alias gp='git push'
+alias gb='git branch'
